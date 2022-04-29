@@ -5,7 +5,7 @@
 <p Usamos nesse projeto
 <ol>
   <li> Herança </li>
-  <li> Sobrecarga de classe </li>
+  <li> Sobrecarga de Construtores </li>
   <li> Sobrescrita </li>
   <li> Encapsulamento </li>
   <li> Funções e Procedimentos </li>
