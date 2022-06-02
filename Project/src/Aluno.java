@@ -6,6 +6,13 @@ public class Aluno extends Pessoa {
 	private String periodo;
 	private String ra;
 	
+	public Aluno(String nome, int idade, String turma, String periodo, String ra) {	
+		super(nome, idade);
+		this.turma = turma;
+		this.periodo = periodo;
+		this.ra = ra;
+	}
+	
 	public String getTurma() {
 		return turma;
 	}
